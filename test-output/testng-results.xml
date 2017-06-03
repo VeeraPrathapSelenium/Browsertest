@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18920" started-at="2017-06-03T20:32:21Z" finished-at="2017-06-03T20:32:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18920" started-at="2017-06-03T20:32:21Z" finished-at="2017-06-03T20:32:39Z">
+      <class name="ClassA">
+        <test-method status="PASS" signature="startBrowser()" name="startBrowser" duration-ms="18863" started-at="2017-06-03T20:32:21Z" finished-at="2017-06-03T20:32:39Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

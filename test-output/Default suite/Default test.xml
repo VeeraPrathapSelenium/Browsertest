@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DELL-PC" tests="1" failures="0" timestamp="3 Jun 2017 15:02:40 GMT" time="18.92" errors="0">
+  <testcase name="startBrowser" time="18.863" classname="ClassA"/>
+</testsuite>
