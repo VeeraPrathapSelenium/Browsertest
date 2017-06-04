@@ -13,6 +13,7 @@ public class ClassA {
 		driver=new FirefoxDriver();
 		driver.navigate().to("https://www.facebook.com/");
 		driver.manage().window().maximize();
+		System.out.println(" i am updating");
 	}
 
 }
